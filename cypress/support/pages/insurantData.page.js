@@ -13,7 +13,6 @@ const BTN_NEXT = '#nextenterproductdata'
 
 Cypress.Commands.add("preencherInsurantData", () => {
 
-
     cy.get(INPUT_FIRST_NAME).type(Cypress.env('firstName'))
     cy.get(INPUT_LAST_NAME).type(Cypress.env('lastName'))
     cy.get(INPUT_DATE_OF_BIRTH).type(Cypress.env('dateOfBirth'))

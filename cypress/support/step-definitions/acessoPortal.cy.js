@@ -1,14 +1,14 @@
 import {
     Given,
     When,
-  } from "cypress-cucumber-preprocessor/steps";
+  } from "cypress-cucumber-preprocessor/steps"
   
   Given("que acesso o portal Vehicle Insurance Application", () => {
-    cy.visit("/");
+    cy.visit("/")
   });
   
   
   When("clico no botao Automobile", () => {
-    cy.clicarAutomobile();
+    cy.clicarAutomobile()
   });
   
