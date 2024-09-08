@@ -1,0 +1,14 @@
+{
+    "make": "Toyota",
+    "model": "Corolla",
+    "cylinderCapacity": 1600,
+    "enginePerformance": 97,
+    "dateOfManufacture": "09/07/2024",
+    "numberOfSeats": 5,
+    "fuelType": "Gas",
+    "payload": 500,
+    "totalWeight": 2000,
+    "listPrice": 25000,
+    "licensePlateNumber": "ABC1234",
+    "annualMileage": 12000
+  }
